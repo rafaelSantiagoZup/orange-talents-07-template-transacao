@@ -1,4 +1,4 @@
-package br.com.zupedu.transacao.transacao;
+package com.zupedu.transacao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package br.com.zupedu.transacao.transacao;
+package com.zupedu.transacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
