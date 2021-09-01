@@ -1,11 +1,5 @@
 package com.zupedu.transacao.transacoes;
 
-import com.sun.istack.NotNull;
-
-import javax.persistence.CascadeType;
-import javax.persistence.ManyToOne;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.PositiveOrZero;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
