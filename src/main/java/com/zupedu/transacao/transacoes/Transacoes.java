@@ -39,4 +39,7 @@ public class Transacoes {
         return id;
     }
 
+    public TransacoesDTO toDTO(){
+        return new TransacoesDTO(this.id,this.transactionId,this.valor,this.estabelecimento,this.cartao,this.efetivadaEm);
+    }
 }
